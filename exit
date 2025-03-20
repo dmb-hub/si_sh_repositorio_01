@@ -1,0 +1,71 @@
+[33mcommit cf5b16456a96c3346fa8675cd160cae0a880aaec[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: D. Manso <dmanso94@gmail.com>
+Date:   Wed Mar 19 08:51:07 2025 +0100
+
+    Datos prueba
+
+[33mcommit 47a9a31ad7afdfeab5327b20e5e7534c7a9637ac[m
+Author: D. Manso <dmanso94@gmail.com>
+Date:   Wed Mar 19 08:47:24 2025 +0100
+
+    Cambios en pruebas.txt en local
+
+[33mcommit 7c1f83eaf9c8f0a5b81bb660b3c4d7a1817a4df0[m
+Author: David Manso Boyero <dmanso94@gmail.com>
+Date:   Wed Mar 19 08:41:12 2025 +0100
+
+    Update pruebas.txt
+
+[33mcommit e6d543084d781869b9b548ec2c9ef526cf943846[m
+Author: D. Manso <dmanso94@gmail.com>
+Date:   Wed Mar 19 08:39:17 2025 +0100
+
+    Carpeta para pruebas
+
+[33mcommit 0caf42d4f059e72b662197aa3533342b28d1d2cb[m
+Author: D. Manso <dmanso94@gmail.com>
+Date:   Thu Mar 13 11:14:39 2025 +0100
+
+    readme hecho
+
+[33mcommit d15e67009c9296a869e81d01a69d48ed5d12311e[m
+Author: D. Manso <dmanso94@gmail.com>
+Date:   Tue Mar 11 14:11:56 2025 +0100
+
+    Eliminado ficheros.txt
+
+[33mcommit ff7460bb7fb66854b9e405cdece7555cde52873c[m
+Author: D. Manso <dmanso94@gmail.com>
+Date:   Tue Mar 11 14:11:14 2025 +0100
+
+    Añadido ficheros.txt
+
+[33mcommit 9daf2ff91e3c6492e5a0d1b104bf3992d75e6cbe[m
+Author: D. Manso <dmanso94@gmail.com>
+Date:   Tue Mar 11 14:08:25 2025 +0100
+
+    Eliminado comandos.txt
+
+[33mcommit 10119b548b25cf684e778e85b5ea130c959fc70e[m
+Author: D. Manso <dmanso94@gmail.com>
+Date:   Tue Mar 11 14:07:20 2025 +0100
+
+    añadido comandos.txt
+
+[33mcommit 074a1901ba653159b3a59d71a4e47a79fde6fb38[m
+Author: D. Manso <dmanso94@gmail.com>
+Date:   Tue Mar 11 13:58:50 2025 +0100
+
+    Añadidos mensajes a los dos scripts
+
+[33mcommit cb240dd01d714eaec80088de32e90a5a4e8fa18d[m
+Author: D. Manso <dmanso94@gmail.com>
+Date:   Tue Mar 11 13:55:40 2025 +0100
+
+    Dos scripts
+
+[33mcommit d7258a014befca5bc6c7dca26900d57a0883a561[m
+Author: D. Manso <dmanso94@gmail.com>
+Date:   Thu Mar 6 10:56:25 2025 +0100
+
+    Incluyendo primer script
